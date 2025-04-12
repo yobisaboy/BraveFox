@@ -21,7 +21,7 @@
 <img src="./Images/gameover.png" width="533">
 
 ## Build & Source Code
-- Demonstration Video: 
+- Demonstration Video: https://youtu.be/rE0mhi8fU4w
 - WebGL Version Available (PC): https://yobisaboy.itch.io/brave-fox
 - Game Download: https://github.com/yobisaboy/BraveFox
 - Unity Project: https://github.com/yoyohohoh/comp305assignment1
