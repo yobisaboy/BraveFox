@@ -1,10 +1,24 @@
 # BraveFox
 <img src="https://github.com/yobisaboy/Resume/blob/main/yobisaboyLogo.png" alt="yobisaboy Logo" height="90">
 
-## Introduction
-
 ## Gameplay
 - Use arrow keys to move, and the spacebar to jump.
+
+## Game Scene
+### Game Start
+<img src="./Images/gamestart.png" width="533">
+
+### Easy Level
+<img src="./Images/lv1.png" width="533">
+
+### Medium Level
+<img src="./Images/lv2.png" width="533">
+
+### Hard Level
+<img src="./Images/lv3.png" width="533">
+
+### Game Over
+<img src="./Images/gameover.png" width="533">
 
 ## Build & Source Code
 - Demonstration Video: 
